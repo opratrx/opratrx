@@ -1,4 +1,4 @@
-## Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aaron
+## Hi ![](https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif)My name is Aaron
 ###### BSCS Senior @ WGU
 
 
