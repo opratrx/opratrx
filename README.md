@@ -40,6 +40,8 @@ I'm always open to collaborating on new projects and expanding my knowledge in t
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro" /></a>
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="36" height="36" alt="Illustrator" /></a>
 <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored-dark.svg" width="36" height="36" alt="After Effects" /></a>
+</br>
+</br>
 
 ### Socials
 
@@ -49,7 +51,16 @@ I'm always open to collaborating on new projects and expanding my knowledge in t
 <a href="https://www.twitter.com/opratrx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
 </p>
-</br> 
+</br>
+
+### Hobbies
+
+<p>
+<img src="https://em-content.zobj.net/source/microsoft-teams/337/flexed-biceps_medium-light-skin-tone_1f4aa-1f3fc_1f3fc.png" width="35" height="35" />
+<img src="https://em-content.zobj.net/source/microsoft-teams/337/man-technologist_1f468-200d-1f4bb.png" width="40" height="40" />
+<img src="https://em-content.zobj.net/source/microsoft-teams/337/musical-notes_1f3b6.png" width="35" height="35" />
+</p>
+</br>
 
 #### Current Projects
 
