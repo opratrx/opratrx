@@ -20,7 +20,7 @@ I'm always open to collaborating on new projects and expanding my knowledge in t
 *   🌍  I'm based in California
 *   ✉️  You can contact me at [dasalla1997@gmail.com](mailto:dasalla1997@gmail.com)
 *   🧠  I'm learning AI / ML
-*   🤝  I'm open to collaborating on life-changing ideas
+*   🤝  I'm open to collaborating
 
 </br> 
 
