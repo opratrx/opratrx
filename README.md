@@ -1,4 +1,4 @@
-## Hi ![](https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif)My name is Aaron
+## Hello! <img src="https://github.com/opratrx/opratrx/blob/master/wave.gif" width="40" height="40"> My name is Aaron
 ###### BSCS Senior @ WGU
 
 
