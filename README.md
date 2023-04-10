@@ -52,5 +52,8 @@ I'm always open to collaborating on new projects and expanding my knowledge in t
 </br>
 
 ###  <img src="https://em-content.zobj.net/source/microsoft-teams/337/high-voltage_26a1.png" width="30" height="30">Current Projects
+*   [AI / ML Party Prediction Program](https://github.com/opratrx/ev6_partyprediction)
+*   [Computer Science Capstone](./)
+*   [Delivery Tracking System](./)
 
-<div width="100%" align="center"><a href="https://github.com/opratrx/ev6_partyprediction" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=opratrx&repo=ev6_partyprediction&title_color=444e59&text_color=ffffff&icon_color=84cc16&bg_color=171717&hide_border=true&locale=en"/></a></div><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br />
