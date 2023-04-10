@@ -16,11 +16,10 @@ I'm always open to collaborating on new projects and expanding my knowledge in t
 
 
 
-
-*   🌍  I'm based in California
-*   ✉️  You can contact me at [dasalla1997@gmail.com](mailto:dasalla1997@gmail.com)
-*   🧠  I'm learning AI / ML
-*   🤝  I'm open to collaborating
+*   <img src="https://em-content.zobj.net/source/microsoft-teams/337/globe-showing-americas_1f30e.png" width="20" height="20">  I'm based in California
+*   <img src="https://em-content.zobj.net/source/microsoft-teams/337/call-me-hand_1f919.png" width="20" height="20">  You can contact me at [dasalla1997@gmail.com](mailto:dasalla1997@gmail.com)
+*   <img src="https://em-content.zobj.net/source/microsoft-teams/337/brain_1f9e0.png" width="20" height="20">  I'm learning AI / ML
+*   <img src="https://em-content.zobj.net/source/microsoft-teams/337/handshake_1f91d.png" width="20" height="20">  I'm open to collaborating
 
 </br> 
 
@@ -50,15 +49,6 @@ I'm always open to collaborating on new projects and expanding my knowledge in t
 <a href="https://www.linkedin.com/in/aarondb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.twitter.com/opratrx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
-</p>
-</br>
-
-### Hobbies
-
-<p>
-<img src="https://em-content.zobj.net/source/microsoft-teams/337/flexed-biceps_medium-light-skin-tone_1f4aa-1f3fc_1f3fc.png" width="35" height="35" />
-<img src="https://em-content.zobj.net/source/microsoft-teams/337/man-technologist_1f468-200d-1f4bb.png" width="40" height="40" />
-<img src="https://em-content.zobj.net/source/microsoft-teams/337/musical-notes_1f3b6.png" width="35" height="35" />
 </p>
 </br>
 
