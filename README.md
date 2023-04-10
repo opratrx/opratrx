@@ -1,5 +1,5 @@
 <b><p><h1>Hello! <img src="https://github.com/opratrx/opratrx/blob/master/waving-hand_1f44b.png" width="40" height="40"> My name is Aaron.</b>
-  <h4>BSCS Senior @ WGU</p> 
+  <h3>BSCS Senior @ WGU</p> 
 
 
 </br>
