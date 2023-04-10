@@ -4,7 +4,7 @@
 
 </br>
 
-### About Me
+### <img src="https://em-content.zobj.net/source/microsoft-teams/337/man-student-light-skin-tone_1f468-1f3fb-200d-1f393.png" width="30" height="30"> About Me
 <p>
 
 From a young age, I've been fueled by a passion for creating something out of nothing. This passion was ignited by Rollercoaster Tycoon (Classic) and later expanded to coding, music production, and computer science. My coding journey began in my early teenage years when I was heavily invested in online games. After falling victim to a phishing scam, I grew curious about how it worked, leading me to learn HTML and PHP. Driven to further automate in-game tasks, I delved into Visual Basic and Python.  
@@ -23,7 +23,7 @@ I'm always open to collaborating on new projects and expanding my knowledge in t
 
 </br> 
 
-### Skills 
+### <img src="https://em-content.zobj.net/source/microsoft-teams/337/man-technologist_1f468-200d-1f4bb.png" width="30" height="30"> Skills 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -42,9 +42,8 @@ I'm always open to collaborating on new projects and expanding my knowledge in t
 </br>
 </br>
 
-### Socials
+### <img src="https://em-content.zobj.net/source/microsoft-teams/337/clinking-beer-mugs_1f37b.png" width="30" height="30"> Socials
 
-<a href="https://www.github.com/opratrx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
 <a href="http://www.instagram.com/steros97" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/aarondb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.twitter.com/opratrx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
@@ -52,6 +51,6 @@ I'm always open to collaborating on new projects and expanding my knowledge in t
 </p>
 </br>
 
-#### Current Projects
+###  <img src="https://em-content.zobj.net/source/microsoft-teams/337/high-voltage_26a1.png" width="30" height="30">Current Projects
 
 <div width="100%" align="center"><a href="https://github.com/opratrx/ev6_partyprediction" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=opratrx&repo=ev6_partyprediction&title_color=444e59&text_color=ffffff&icon_color=84cc16&bg_color=171717&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
