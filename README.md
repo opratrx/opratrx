@@ -50,14 +50,14 @@
 </br>
 
 ##  <img src="https://em-content.zobj.net/source/microsoft-teams/337/high-voltage_26a1.png" width="30" height="30">&nbsp;&nbsp;Current Projects
-*   [Inventory Application - Java](./)
-*   [Scheduling Application - Java](./)
+*   [Inventory Application - JavaFX](./)
+*   [Scheduling Application - JavaFX](./)
 *   [Computer Science Capstone - Python](./)
 *   [Delivery Tracking System - Python](./)
 
 </br>
 
 ## <img src="https://em-content.zobj.net/source/microsoft-teams/337/thumbs-up_1f44d.png" width="30" height="30">&nbsp;&nbsp;Finished Projects
-*   [AI / ML Party Prediction Program](https://github.com/opratrx/ev6_partyprediction)
+*   [AI / ML Party Prediction Program - Java](https://github.com/opratrx/ev6_partyprediction)
 
 <br/><br/><br/><br/><br/><br/><br/>
