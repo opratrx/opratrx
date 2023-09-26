@@ -41,9 +41,6 @@
 </br>
 
 ##  <img src="https://em-content.zobj.net/source/microsoft-teams/337/high-voltage_26a1.png" width="30" height="30">&nbsp;&nbsp;Current Projects
-*   [Inventory Application - JavaFX](./)
-*   [Scheduling Application - JavaFX](./)
-*   [Computer Science Capstone - Python](./)
 *   [Delivery Tracking System - Python](./)
 
 </br>
