@@ -41,7 +41,7 @@
 </br>
 
 ##  <img src="https://em-content.zobj.net/source/microsoft-teams/337/high-voltage_26a1.png" width="30" height="30">&nbsp;&nbsp;Current Projects
-*   [Delivery Tracking System - Python](./)
+*   [Delivery Tracking System - Python](https://github.com/opratrx/ev9_dsa2)
 
 </br>
 
