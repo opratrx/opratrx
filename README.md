@@ -16,7 +16,7 @@
 >
 > *   <img src="https://em-content.zobj.net/source/microsoft-teams/337/globe-showing-americas_1f30e.png" width="20" height="20">  I'm based in California
 > *   <img src="https://em-content.zobj.net/source/microsoft-teams/337/call-me-hand_1f919.png" width="20" height="20">  You can contact me at [dasalla1997@gmail.com](mailto:dasalla1997@gmail.com)
-> *   <img src="https://em-content.zobj.net/source/microsoft-teams/337/brain_1f9e0.png" width="20" height="20">  I'm currently learning Data Structures and Algorithms, Discrete Mathematics II, OS for Programmers & Engineers, Java (Spring Boot), and Machine Learning.
+> *   <img src="https://em-content.zobj.net/source/microsoft-teams/337/brain_1f9e0.png" width="20" height="20">  I'm currently learning DSA, DM, OS, Java (Spring Boot), and ML.
 > *   <img src="https://em-content.zobj.net/source/microsoft-teams/337/handshake_1f91d.png" width="20" height="20">  I'm open to collaborating
 
 </br> 
