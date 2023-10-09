@@ -1,5 +1,5 @@
-### Hello! <img src="https://github.com/opratrx/opratrx/blob/master/waving-hand_1f44b.png" width="30" height="30"> My name is Aaron.</b>
-###### BSCS Senior @ WGU
+### Aaron Ballesteros
+###### Computer Science Senior @ WGU
 
 
 </br>
