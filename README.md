@@ -47,5 +47,6 @@
 
 ## <img src="https://em-content.zobj.net/source/microsoft-teams/337/thumbs-up_1f44d.png" width="30" height="30">&nbsp;&nbsp;Finished Projects
 *   [AI / ML Party Prediction Program - Java](https://github.com/opratrx/ev6_partyprediction)
+*   [Genetic Algorithm Robots Program - C++](https://github.com/opratrx/flc_geneticalgo)
 
 <br/><br/><br/><br/><br/><br/><br/>
