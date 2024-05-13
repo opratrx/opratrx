@@ -16,8 +16,7 @@
 
  *   <img src="https://em-content.zobj.net/source/microsoft-teams/337/globe-showing-americas_1f30e.png" width="20" height="20">  I'm based in <b>California</b>
  *   <img src="https://em-content.zobj.net/source/microsoft-teams/337/call-me-hand_1f919.png" width="20" height="20">  You can contact me at [abal387@wgu.edu](mailto:abal387@wgu.edu)
- *   <img src="https://em-content.zobj.net/source/microsoft-teams/337/brain_1f9e0.png" width="20" height="20">  I'm currently learning DSA, DM, OS, Java (Spring Boot), and ML.
- *   <img src="https://em-content.zobj.net/source/microsoft-teams/337/handshake_1f91d.png" width="20" height="20">  Looking for opportunities.
+ *   <img src="https://em-content.zobj.net/source/microsoft-teams/337/brain_1f9e0.png" width="20" height="20">  I'm currently learning Discrete Mathematics II & OS
 
 </br> 
 
@@ -41,12 +40,13 @@
 </br>
 
 #### Current Projects
-*   [Delivery Tracking System - Python](https://github.com/opratrx/ev9_dsa2)
+*    [Senior Project - Python]()
 
 </br>
 
 #### Finished Projects
 *   [AI / ML Party Prediction Program - Java](https://github.com/opratrx/ev6_partyprediction)
 *   [Genetic Algorithm Robots Program - C++](https://github.com/opratrx/flc_geneticalgo)
+*   [Delivery Tracking System - Python](https://github.com/opratrx/ev9_dsa2)
 
 <br/><br/><br/><br/><br/><br/><br/>
